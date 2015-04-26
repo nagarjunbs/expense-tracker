@@ -1,0 +1,19 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "An expense tracker built with HTML5",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShashankaNataraj/expense-tracker.git"
+  },
+  "author": "Shashanka Nataraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShashankaNataraj/expense-tracker/issues"
+  },
+  "homepage": "https://github.com/ShashankaNataraj/expense-tracker"
+}
